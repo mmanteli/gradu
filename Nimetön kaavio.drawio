@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T14:36:27.231Z" agent="5.0 (Windows)" etag="H_LmT_M9xDYzHlKYIbND" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T14:51:35.193Z" agent="5.0 (Windows)" etag="v5148jy18ZUulnH-cv0O" version="20.8.1" type="github">
   <diagram id="L71-HYiMx5dE4_1I3F0T" name="Sivu-1">
-    <mxGraphModel dx="2812" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2271" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="unRAUoUYdDuh-6SN-mz_-25" value="" style="swimlane;startSize=0;" parent="izF1CWLwOtwObPyW_wJa-1" vertex="1">
           <mxGeometry y="130" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="unRAUoUYdDuh-6SN-mz_-27" value="$$ x = [ x_1, x_2 ] $$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="unRAUoUYdDuh-6SN-mz_-25" vertex="1">
+        <mxCell id="unRAUoUYdDuh-6SN-mz_-27" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$ x = [ x_1, x_2 ] $$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="unRAUoUYdDuh-6SN-mz_-25" vertex="1">
           <mxGeometry x="-5" y="15" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="unRAUoUYdDuh-6SN-mz_-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="izF1CWLwOtwObPyW_wJa-1" source="unRAUoUYdDuh-6SN-mz_-25" target="unRAUoUYdDuh-6SN-mz_-31" edge="1">
@@ -93,9 +93,6 @@
             <mxPoint x="150" y="160" as="sourcePoint" />
             <mxPoint x="220" y="220" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="unRAUoUYdDuh-6SN-mz_-30" value="&lt;pre&gt;Input&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="izF1CWLwOtwObPyW_wJa-1" vertex="1">
-          <mxGeometry x="50" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="unRAUoUYdDuh-6SN-mz_-31" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" parent="izF1CWLwOtwObPyW_wJa-1" vertex="1">
           <mxGeometry x="230" y="70" width="60" height="60" as="geometry" />
@@ -219,6 +216,15 @@
         </mxCell>
         <mxCell id="unRAUoUYdDuh-6SN-mz_-77" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;sub style=&quot;font-size: 15px;&quot;&gt;$$w^3_{21}$$&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;rotation=-41;" parent="izF1CWLwOtwObPyW_wJa-1" vertex="1">
           <mxGeometry x="640" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="izF1CWLwOtwObPyW_wJa-62" value="" style="endArrow=classic;html=1;rounded=0;fontSize=28;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="unRAUoUYdDuh-6SN-mz_-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="590" as="sourcePoint" />
+            <mxPoint x="160" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="izF1CWLwOtwObPyW_wJa-63" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;$$y$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="150" y="550" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
