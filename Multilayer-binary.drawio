@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-07T15:25:56.622Z" agent="5.0 (Windows)" etag="o2HrozO5Fw8p04dKlT7M" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T15:33:12.638Z" agent="5.0 (Windows)" etag="2_MxQ_CLeQ5ame3mvITS" version="20.8.3" type="github">
   <diagram id="L71-HYiMx5dE4_1I3F0T" name="Sivu-1">
     <mxGraphModel dx="1583" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -268,7 +268,7 @@
         <mxCell id="ENBTFdsbygloh6ypOBvS-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="ENBTFdsbygloh6ypOBvS-21">
           <mxGeometry width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ENBTFdsbygloh6ypOBvS-2" value="&lt;div&gt;$$x^1_0$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ENBTFdsbygloh6ypOBvS-21">
+        <mxCell id="ENBTFdsbygloh6ypOBvS-2" value="&lt;div&gt;$$b^1$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ENBTFdsbygloh6ypOBvS-21">
           <mxGeometry y="15" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ENBTFdsbygloh6ypOBvS-22" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -277,7 +277,7 @@
         <mxCell id="ENBTFdsbygloh6ypOBvS-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="ENBTFdsbygloh6ypOBvS-22">
           <mxGeometry width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ENBTFdsbygloh6ypOBvS-8" value="&lt;div&gt;$$x^2_0$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ENBTFdsbygloh6ypOBvS-22">
+        <mxCell id="ENBTFdsbygloh6ypOBvS-8" value="&lt;div&gt;$$b^2$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ENBTFdsbygloh6ypOBvS-22">
           <mxGeometry y="15" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ENBTFdsbygloh6ypOBvS-23" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -286,7 +286,7 @@
         <mxCell id="ENBTFdsbygloh6ypOBvS-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="ENBTFdsbygloh6ypOBvS-23">
           <mxGeometry width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ENBTFdsbygloh6ypOBvS-18" value="&lt;div&gt;$$x^3_0$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ENBTFdsbygloh6ypOBvS-23">
+        <mxCell id="ENBTFdsbygloh6ypOBvS-18" value="&lt;div&gt;$$b^3$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="ENBTFdsbygloh6ypOBvS-23">
           <mxGeometry y="15" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
