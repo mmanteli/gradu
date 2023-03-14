@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T09:11:59.442Z" agent="5.0 (Windows)" etag="kZwNkP7o0qckJqQ50FSr" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T09:12:34.098Z" agent="5.0 (Windows)" etag="E4F-fMwAfdRxsdd2GTpN" version="20.8.13" type="github">
   <diagram name="Sivu-1" id="2Eu6WwTexLYWZvn8UhFr">
     <mxGraphModel dx="1687" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
           <mxGeometry x="575" y="220" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n3FAYLeEwwVxHscSPBpA-20" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3.&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;container=0;" vertex="1" parent="1">
-          <mxGeometry x="567.5" y="347" width="65" height="10" as="geometry" />
+          <mxGeometry x="575" y="347" width="65" height="10" as="geometry" />
         </mxCell>
         <mxCell id="n3FAYLeEwwVxHscSPBpA-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Mallin koulutus&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;container=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="115.87" width="130" height="30" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry x="610" y="233.63" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3FAYLeEwwVxHscSPBpA-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Vakaiden avainsa- nojen valinta&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;container=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="347" width="150" height="30" as="geometry" />
+          <mxGeometry x="617.5" y="347" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
