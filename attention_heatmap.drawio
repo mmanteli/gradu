@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T12:33:02.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="zgeV8pRyD7Cx7k35JgYm" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T12:41:09.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="uIlOMQc0tT6rdpP-VM9B" version="21.1.8" type="github">
   <diagram name="Sivu-1" id="-olULv6bevzqwktb6eJ8">
     <mxGraphModel dx="934" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -520,7 +520,7 @@
           <mxGeometry x="30" y="80" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cE-CUooFSLtYKd18Wbbt-121" value="aamiaisensa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="120" width="40" height="40" as="geometry" />
+          <mxGeometry x="10" y="120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cE-CUooFSLtYKd18Wbbt-122" value="poika" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="40" height="40" as="geometry" />
