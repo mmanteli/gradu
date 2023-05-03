@@ -1,23 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T10:49:12.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="P0OuvdUSbVwRZ6nQTbrh" version="21.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T10:51:59.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="Zk32Ao75amqAo_OvN2so" version="21.2.4" type="github">
   <diagram name="Sivu-1" id="nK2NkI7L1j9oUhS5gg74">
-    <mxGraphModel dx="993" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0G4UZZkLjuFtPUpjodqx-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="80" width="220" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0G4UZZkLjuFtPUpjodqx-1" value="&lt;div align=&quot;left&quot;&gt;Suomi itsenäistyi joulukuussa 1917&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Milloin Suomi itsenäistyi?&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="80" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0G4UZZkLjuFtPUpjodqx-2" value="&lt;div align=&quot;right&quot;&gt;Konteksti: &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;Kysymys: &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="80" width="60" height="80" as="geometry" />
+          <mxGeometry x="70" y="80" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0G4UZZkLjuFtPUpjodqx-3" target="0G4UZZkLjuFtPUpjodqx-6">
           <mxGeometry relative="1" as="geometry" />
@@ -29,37 +23,31 @@
           <mxGeometry x="520" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0G4UZZkLjuFtPUpjodqx-8" target="0G4UZZkLjuFtPUpjodqx-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="240" width="220" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0G4UZZkLjuFtPUpjodqx-9" value="&lt;div align=&quot;left&quot;&gt;Suomi itsenäistyi joulukuussa 1917&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Milloin Suomi itsenäistyi?&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="240" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0G4UZZkLjuFtPUpjodqx-10" value="&lt;div align=&quot;right&quot;&gt;Konteksti: &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;Kysymys: &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="240" width="60" height="80" as="geometry" />
+          <mxGeometry x="70" y="190" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0G4UZZkLjuFtPUpjodqx-11" target="0G4UZZkLjuFtPUpjodqx-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-11" value="Malli 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0G4UZZkLjuFtPUpjodqx-12" value="&lt;div align=&quot;center&quot;&gt;Kyllä&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="240" width="80" height="80" as="geometry" />
+        <mxCell id="0G4UZZkLjuFtPUpjodqx-12" value="&lt;div&gt;POS&lt;/div&gt;&lt;div&gt;(vastaus löytyy)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.071;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0G4UZZkLjuFtPUpjodqx-13" target="0G4UZZkLjuFtPUpjodqx-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-13" value="Selitysalgoritmi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-14" value="&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;background-color: rgb(204, 255, 153);&quot;&gt;Suomi&lt;/span&gt; &lt;span style=&quot;background-color: rgb(204, 255, 153);&quot;&gt;itsenäistyi&lt;/span&gt; joulukuussa &lt;span style=&quot;background-color: rgb(0, 204, 0);&quot;&gt;1917&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="350" width="140" height="80" as="geometry" />
+          <mxGeometry x="490" y="300" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0G4UZZkLjuFtPUpjodqx-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -69,21 +57,39 @@
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0G4UZZkLjuFtPUpjodqx-11" target="0G4UZZkLjuFtPUpjodqx-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="400" as="sourcePoint" />
-            <mxPoint x="360" y="350" as="targetPoint" />
+            <mxPoint x="310" y="350" as="sourcePoint" />
+            <mxPoint x="360" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0G4UZZkLjuFtPUpjodqx-8" target="0G4UZZkLjuFtPUpjodqx-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="400" as="sourcePoint" />
-            <mxPoint x="360" y="350" as="targetPoint" />
+            <mxPoint x="310" y="350" as="sourcePoint" />
+            <mxPoint x="360" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0G4UZZkLjuFtPUpjodqx-7" target="0G4UZZkLjuFtPUpjodqx-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="400" as="sourcePoint" />
-            <mxPoint x="360" y="350" as="targetPoint" />
+            <mxPoint x="310" y="350" as="sourcePoint" />
+            <mxPoint x="360" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0G4UZZkLjuFtPUpjodqx-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="190" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0G4UZZkLjuFtPUpjodqx-9" value="&lt;div align=&quot;left&quot;&gt;Suomi itsenäistyi joulukuussa 1917&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Milloin Suomi itsenäistyi?&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0G4UZZkLjuFtPUpjodqx-31">
+          <mxGeometry x="70" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0G4UZZkLjuFtPUpjodqx-10" value="&lt;div align=&quot;right&quot;&gt;Konteksti: &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;Kysymys: &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0G4UZZkLjuFtPUpjodqx-31">
+          <mxGeometry width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0G4UZZkLjuFtPUpjodqx-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="80" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0G4UZZkLjuFtPUpjodqx-1" value="&lt;div align=&quot;left&quot;&gt;Suomi itsenäistyi joulukuussa 1917&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Milloin Suomi itsenäistyi?&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0G4UZZkLjuFtPUpjodqx-32">
+          <mxGeometry x="70" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0G4UZZkLjuFtPUpjodqx-2" value="&lt;div align=&quot;right&quot;&gt;Konteksti: &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;Kysymys: &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="0G4UZZkLjuFtPUpjodqx-32">
+          <mxGeometry width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
