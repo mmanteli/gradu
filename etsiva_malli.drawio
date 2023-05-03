@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T11:05:02.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="2kFF_gvoHp8luNhloRMn" version="21.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T11:08:26.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="rS4MmZ-KEMyuBMHe8aax" version="21.2.4" type="github">
   <diagram name="Sivu-1" id="nK2NkI7L1j9oUhS5gg74">
-    <mxGraphModel dx="353" dy="188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-12" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;POS&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;(vastaus löytyy)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="100" height="80" as="geometry" />
+          <mxGeometry x="510" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0G4UZZkLjuFtPUpjodqx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.071;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="0G4UZZkLjuFtPUpjodqx-13" target="0G4UZZkLjuFtPUpjodqx-14">
           <mxGeometry relative="1" as="geometry" />
