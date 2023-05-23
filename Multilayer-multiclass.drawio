@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T06:54:33.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="EE7bRgePrWtjUrqQxpNH" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T19:29:01.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="vjUYVIl0EKPH_QuRfMnN" version="21.3.2" type="github">
   <diagram id="L71-HYiMx5dE4_1I3F0T" name="Sivu-1">
-    <mxGraphModel dx="1621" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1621" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,13 +198,13 @@
             <mxPoint x="-437" y="371" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="izF1CWLwOtwObPyW_wJa-63" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;$$f(x)_1$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;container=0;" parent="1" vertex="1">
+        <mxCell id="izF1CWLwOtwObPyW_wJa-63" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;$$F(x)_1$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;container=0;" parent="1" vertex="1">
           <mxGeometry x="-120" y="294.34" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="U7Zx6VbLF4_jJS3d3RYm-434" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;$$f(x)_2$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;container=0;" parent="1" vertex="1">
+        <mxCell id="U7Zx6VbLF4_jJS3d3RYm-434" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;$$F(x)_2$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;container=0;" parent="1" vertex="1">
           <mxGeometry x="-120" y="355" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="U7Zx6VbLF4_jJS3d3RYm-435" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;$$f(x)_3$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;container=0;" parent="1" vertex="1">
+        <mxCell id="U7Zx6VbLF4_jJS3d3RYm-435" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;$$F(x)_3$$&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;container=0;" parent="1" vertex="1">
           <mxGeometry x="-120" y="415" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3qntRhlOY1SQ3M1mygcT-8" value="" style="group;fontSize=19;" parent="1" vertex="1" connectable="0">
@@ -363,7 +363,7 @@
             <mxPoint x="-140" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5LR8zGSGS3lZIIo4WgXO-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;$$\rightarrow f(x)$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="5LR8zGSGS3lZIIo4WgXO-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;$$\rightarrow F(x)$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-120" y="495" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
